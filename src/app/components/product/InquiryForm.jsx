@@ -118,7 +118,7 @@ const InquiryForm = forwardRef(({ product }, ref) => {
         <label className="flex items-center gap-2 text-xs text-gray-500">
           <input type="checkbox" name="consent" defaultChecked required />
           <span>
-            I consent to be contacted by Central New Holland via phone, email, or SMS regarding this inquiry.
+            I consent to be contacted by Carl F. Statz & Sons Inc via phone, email, or SMS regarding this inquiry.
           </span>
         </label>
 

@@ -26,7 +26,7 @@ export default function TopBar() {
           <div className="flex items-center space-x-2">
             <FaPhoneAlt className="text-[#c9a227]" />
             <a
-              href="tel:4052150004"
+              href="tel: "
               onClick={() => {
                 if (typeof window !== "undefined" && window.fbq) {
                   window.fbq("trackCustom", "Contact", {
@@ -37,14 +37,14 @@ export default function TopBar() {
                 }
               }}
             >
-             (405) 215-0004
+              
            </a>
            </div> 
 
           {/* ADDRESS - ascuns pe mobil */}
           <div className="hidden md:flex items-center space-x-2">
             <FaMapMarkerAlt className="text-[#c9a227]" />
-            <span>8408 I-40, Oklahoma City, OK 73128</span>
+            <span>6101 Hogan Rd, Waunakee, WI 53597</span>
           </div>
 
         </div>

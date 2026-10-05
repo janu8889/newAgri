@@ -19,26 +19,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://centralnewholland.com"), // pune domeniul tău real
+  metadataBase: new URL("https://statzeq.com"), // pune domeniul tău real
 
   title: {
-    default: "Central New Holland",
-    template: "%s | Central New Holland",
+    default: "Carl F. Statz & Sons Inc",
+    template: "%s | Carl F. Statz & Sons Inc",
   },
 
   description:
-    "Central New Holland offers high-quality agricultural and construction machinery.",
+    "Carl F. Statz & Sons Inc offers high-quality agricultural and construction machinery.",
 
   alternates: {
     canonical: "/", 
   },
 
   openGraph: {
-    title: "Central New Holland",
+    title: "Carl F. Statz & Sons Inc",
     description:
       "High-quality agricultural and construction machinery.",
-    url: "https://centralnewholland.com",
-    siteName: "Central New Holland",
+    url: "https://statzeq.com",
+    siteName: "Carl F. Statz & Sons Inc",
     images: [
       {
         url: "/og-image.jpg",

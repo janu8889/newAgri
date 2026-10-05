@@ -92,12 +92,12 @@ export default function Footer() {
             {/* Contact */}
             <div className="flex flex-col gap-2">
               <h2 className="mb-2 uppercase tracking-wide font-bold text-[18px] text-[#c9a227]">
-                Central New Holland
+                Carl F. Statz & Sons Inc
               </h2>
               <div className="flex flex-col gap-1">
-                <span className="text-[16px]">8408 I-40, </span>
-                <span className="text-[16px]">Oklahoma City, OK 73128</span>
-                <span className="text-[16px]">(405) 215-0004</span>
+                <span className="text-[16px]">6101 Hogan Rd </span>
+                <span className="text-[16px]">Waunakee, WI 53597</span>
+                <span className="text-[16px]"> 0000</span>
               </div>
             </div>
 
@@ -225,7 +225,7 @@ export default function Footer() {
                 className="mt-1"
               />
               <span>
-                I consent to be contacted by Central New Holland via phone, email, or SMS regarding this inquiry.
+                I consent to be contacted by Carl F. Statz & Sons Inc via phone, email, or SMS regarding this inquiry.
               </span>
             </label>
 

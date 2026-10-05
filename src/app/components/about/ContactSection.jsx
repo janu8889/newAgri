@@ -32,9 +32,9 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
                 </h4>
 
                 <p className="text-[#555] leading-relaxed">
-                  8408 I-40, 
+                  6101 Hogan Rd, 
                   <br />
-                  Oklahoma City, OK 73128
+                   Waunakee, WI 53597
                 </p>
               </div>
             </div>
@@ -69,10 +69,10 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
 
                 <p>
                   <a
-                    href="tel:4052150004"
+                    href="tel:000000"
                     className="text-[#555] hover:text-[#c9a227] transition-colors"
                   >
-                    (405) 215-0004
+                    0000000
                   </a>
                 </p>
               </div>
@@ -90,13 +90,13 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
               </div>
 
               <p className="text-[#555] mb-8">
-                8408 I-40 
+                6101 Hogan Rd 
                 <br />
-                Oklahoma City, OK 73128
+                 Waunakee, WI 53597
               </p>
 
               <a
-                href="https://maps.app.goo.gl/dmSafJnuxTFDjoz48"
+                href="https://maps.app.goo.gl/GiJdgJe2XM1SWBaP7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#e6c65a] text-black font-semibold px-6 py-3 rounded-xl hover:bg-[#d4b44f] transition-all duration-300"

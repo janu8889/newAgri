@@ -77,20 +77,20 @@ export default function About() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-5 mb-12">
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          Central New Holland delivers comprehensive solutions for pre-owned construction and agricultural equipment. We add value to the sale of each equipment by taking equipment as trades, convenient payment methods, export document preparation, and transportation services.
+          Carl F. Statz & Sons Inc delivers comprehensive solutions for pre-owned construction and agricultural equipment. We add value to the sale of each equipment by taking equipment as trades, convenient payment methods, export document preparation, and transportation services.
         </p>
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-5 mb-12">
         <h1 className="text-[24px] md:text-[28px] font-bold text-[#c9a227] mb-4">
-          Central New Holland – Sales
+          Carl F. Statz & Sons Inc – Sales
         </h1>
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          We started this company as a local, family-owned business in 1989, and have been supporting local and regional businesses and agriculture for decades.
+          We started this company as a local, family-owned business in 1930, and have been supporting local and regional businesses and agriculture for decades.
         </p>
 
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          Our company is a multi-brand, family-owned dealer with experience in agricultural and construction machinery and equipment, headquartered in Oklahoma City.
+          Our company is a multi-brand, family-owned dealer with experience in agricultural and construction machinery and equipment, headquartered in Waunakee, WI.
         </p>
 
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
@@ -98,7 +98,7 @@ export default function About() {
         </p>
 
         {/* <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          Daniel R. Petrov, Sales & Marketing Director at Central New Holland, gained his experience with equipment from being involved at an early age in his family’s landscaping and snow removal company. He learned that buying clean, quality used equipment was one of the best ways to have the right equipment at the right time without the high payments of new machinery or expensive rental costs. Today, Daniel and the team at Central New Holland are focused on helping customers stay profitable by providing reliable used equipment that helps get the job done efficiently and affordably.
+          Daniel R. Petrov, Sales & Marketing Director at Carl F. Statz & Sons Inc, gained his experience with equipment from being involved at an early age in his family’s landscaping and snow removal company. He learned that buying clean, quality used equipment was one of the best ways to have the right equipment at the right time without the high payments of new machinery or expensive rental costs. Today, Daniel and the team at Carl F. Statz & Sons Inc are focused on helping customers stay profitable by providing reliable used equipment that helps get the job done efficiently and affordably.
         </p> */}
 
       </div>

@@ -300,7 +300,7 @@ export default function FiltreList({ products: initialProducts }) {
                 className="mt-1"
               />
               <span>
-                I consent to be contacted by S & W Equipment via phone, email, or SMS regarding this inquiry.
+                I consent to be contacted by Carl F. Statz & Sons Inc via phone, email, or SMS regarding this inquiry.
               </span>
             </label>
 
