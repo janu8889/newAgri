@@ -97,7 +97,7 @@ export default function Footer() {
               <div className="flex flex-col gap-1">
                 <span className="text-[16px]">6101 Hogan Rd </span>
                 <span className="text-[16px]">Waunakee, WI 53597</span>
-                <span className="text-[16px]"> 0000</span>
+                <span className="text-[16px]"> (608) 213-5356</span>
               </div>
             </div>
 

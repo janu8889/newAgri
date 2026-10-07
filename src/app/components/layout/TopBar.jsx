@@ -26,7 +26,7 @@ export default function TopBar() {
           <div className="flex items-center space-x-2">
             <FaPhoneAlt className="text-[#c9a227]" />
             <a
-              href="tel: "
+              href="tel: 6082135356"
               onClick={() => {
                 if (typeof window !== "undefined" && window.fbq) {
                   window.fbq("trackCustom", "Contact", {
@@ -37,16 +37,16 @@ export default function TopBar() {
                 }
               }}
             >
-              
+              (608) 213-5356
            </a>
            </div> 
 
           {/* ADDRESS - ascuns pe mobil */}
           <div className="hidden md:flex items-center space-x-2">
             <FaMapMarkerAlt className="text-[#c9a227]" />
-            <span>6101 Hogan Rd, Waunakee, WI 53597</span>
+            <span></span>
           </div>
-
+            6101 Hogan Rd, Waunakee, WI 53597
         </div>
 
       </div>
