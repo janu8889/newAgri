@@ -94,7 +94,7 @@ export default function About() {
         </p>
 
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          In addition to our core New Holland inventory, our company carries a robust fleet of industry-reliable construction and agricultural brands, offering warranty, service and expertise for all.
+          Our company carries a robust fleet of industry-reliable construction and agricultural brands, offering warranty, service and expertise for all.
         </p>
 
         {/* <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
