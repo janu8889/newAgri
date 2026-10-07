@@ -116,6 +116,12 @@ export default function Footer() {
                 <Link className="text-[16px] hover:text-[#c9a227] transition-colors duration-200" href="/inventory/attachments">
                  Attachments
                 </Link>
+                <Link className="text-[16px] hover:text-[#c9a227] transition-colors duration-200" href="/inventory/trucks">
+                  Trucks
+                </Link>
+                <Link className="text-[16px] hover:text-[#c9a227] transition-colors duration-200" href="/inventory/dumpTruck">
+                  Dump Trucks
+                </Link>
               </div>
             </div>
 
